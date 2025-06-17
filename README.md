@@ -1,5 +1,5 @@
 Компонент
-
+```
 type TProductCard = {
   title: string;
   origin: string;
@@ -78,3 +78,4 @@ export default function App() {
     grid-template-columns: 1fr;
   }
 }
+```
